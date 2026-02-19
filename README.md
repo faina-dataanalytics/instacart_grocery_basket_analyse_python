@@ -99,12 +99,8 @@ Marketingkampagnen regional anpassen.
 - Jupyter Notebook
 - Anaconda
 
-## Reproduzierbarkeit
-- Repository klonen
-- Python‑Umgebung mit den benötigten Bibliotheken erstellen
-- Datensätze in den Ordner 02_Daten/Rohe_Daten legen
-- Skripte in 03_Scripte ausführen
-- Finale Analyse in 04_Analyse öffnen
+## Hinweis
+Nicht alle Projektdateien sind in diesem Repository enthalten. Insbesondere die ursprünglichen Rohdatensätze und die meisten verarbeiteten Datendateien sind aus Platzgründen ausgeschlossen. Zu Demonstrationszwecken wird nur eine kleine Auswahl bereinigter Datensätze bereitgestellt.
 
 Datenquelle
 „The Instacart Online Grocery Shopping Dataset 2017“,
