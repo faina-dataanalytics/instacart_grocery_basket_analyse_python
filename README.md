@@ -4,24 +4,6 @@
 Dieses Projekt umfasst eine explorative Datenanalyse des Instacart Online Grocery Shopping Datasets. Ziel ist es, das Kunden‑ und Bestellverhalten zu untersuchen und datenbasierte Empfehlungen für Marketing‑ und Vertriebsstrategien abzuleiten.
 Die Analyse wurde vollständig in Python durchgeführt (pandas, NumPy, seaborn, matplotlib) und folgt den strukturellen und methodischen Vorgaben des CareerFoundry Data Analytics Programms.
 
-## Projektstruktur
-Instacart_Analyse/
-│
-├── 01_Projectmanagement
-│   └── Projektbrief, Aufgabenübersicht, Planung
-│
-├── 02_Daten
-│   ├── Rohe_Daten          # Originale Instacart-Datensätze (nicht im Repo)
-│   ├── Prepared_Daten      # Bereinigte & zusammengeführte Daten
-│   └── Plots               # Exportierte Visualisierungen
-│
-├── 03_Scripte              # Python-Skripte aus den einzelnen Kurslektionen
-│
-├── 04_Analyse              # Finale Analyse, Auswertungen & Notebooks
-│
-└── 05_Kunden_senden        # Abschlussbericht & Präsentationsmaterial
-
-
 ## Zielsetzung
 Instacart möchte besser verstehen:
 - wann Kunden bestellen
